@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Final one here
+          Final one heres
         </h1>
 
         <p className={styles.description}>
